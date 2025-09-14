@@ -5,7 +5,7 @@
 
 
 Click on the following link to checkout the colab file.
-- [Colab]()
+- [Colab](https://colab.research.google.com/github/vannalevaibhav-rcb/oasis_inbt_Car_Prize_Pridiction-/blob/main/Car_Price_Prediction_with_Machine_Learning.ipynb)
 
 
 **Key Objectives:**
@@ -60,7 +60,7 @@ This project explores the automotive industry's intricate dynamics, aiming to pr
 
 ## Author
 
-- [Arindam Paul]()
+- [Vaibhav Vannale](www.linkedin.com/in/vaibhav-vannale-2a051b28a)
 
 ---
 
