@@ -1,4 +1,3 @@
-# oasis_inbt_Car_Prize_Pridiction-
 
 # Car Price Prediction with Machine Learning
 
